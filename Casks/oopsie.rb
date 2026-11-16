@@ -1,6 +1,6 @@
 cask "oopsie" do
-  version "0.1.0"
-  sha256 "cfa7993395ed8f3c9276f381c951fedabf479220d204e95949f4bf7f19a9520c"
+  version "0.3.0"
+  sha256 "23ef6e68bd49ba578247a682be8045c81a89b251f2bc5d446203544a7b608634"
 
   url "https://github.com/Mostafa-Davoodi/Oopsie/releases/download/v#{version}/Oopsie-#{version}.zip"
   name "Oopsie"
